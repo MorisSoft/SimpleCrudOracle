@@ -1,5 +1,5 @@
-# SimpleJspServletOracle
-Materi Training Java
+# SimpleCrudOracle
+Java Simple CRUD Application
 
 1. Create database
 2. Execute script database.sql
@@ -56,3 +56,6 @@ Materi Training Java
 ```
 
 14. Right click on the project name and run it using **Run As–>Run on server option**
+
+  ![](https://github.com/MorisSoft/SimpleJspServletOracle/blob/master/images/result-1.JPG)
+  ![](https://github.com/MorisSoft/SimpleJspServletOracle/blob/master/images/result-2.JPG)
