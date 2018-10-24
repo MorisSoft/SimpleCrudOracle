@@ -33,7 +33,7 @@ Materi Training Java
 11. Create a new jsp file under the **WebContent** folder and name it **listUser.jsp**. It is used to list all the users.
 12. Create a new jsp file under the **WebContent** folder and name it **user.jsp**. This jsp is a form used to entry data of user.
 13. Lastly, check the web.xml file located in **WebContent—>WEB-INF** folder in your project structure. Make sure it looks like this
-    ```
+ ```
 <?xml version="1.0" encoding="UTF-8"?>
 <web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xmlns:web="http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" id="WebApp_ID" version="2.5">
   <display-name>MorisSoftTraining</display-name>
@@ -52,4 +52,5 @@ Materi Training Java
   </servlet-mapping>
 </web-app>    
 ```
+
 14. Right click on the project name and run it using **Run As–>Run on server option**
