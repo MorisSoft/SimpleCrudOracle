@@ -1,5 +1,5 @@
 # SimpleJspServletOracle
-Materi Training Java
+Java Simple Crud
 
 1. Create database
 2. Execute script database.sql
