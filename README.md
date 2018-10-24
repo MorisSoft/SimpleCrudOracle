@@ -7,4 +7,6 @@ Materi Training Java
    ![](https://github.com/MorisSoft/SimpleJspServletOracle/blob/master/images/eclipse-1.JPG)
    ![](https://github.com/MorisSoft/SimpleJspServletOracle/blob/master/images/eclipse-2.JPG)
 4. Create four packages in the src folder.
+   ![](https://github.com/MorisSoft/SimpleJspServletOracle/blob/master/images/package-1.JPG)
+   ![](https://github.com/MorisSoft/SimpleJspServletOracle/blob/master/images/package-2.JPG)
    - com.morissoft.util => contains the class for initiating database connection
