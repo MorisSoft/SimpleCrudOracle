@@ -1,5 +1,5 @@
-# SimpleJspServletOracle
-Java Simple Crud
+# SimpleCrudOracle
+Java Simple CRUD Application
 
 1. Create database
 2. Execute script database.sql
