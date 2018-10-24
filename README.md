@@ -22,6 +22,8 @@ Materi Training Java
    - **com.morissoft.dao** => contains the logic for database operation
    - **com.morissoft.controller** => contains the servlets
 6. Create a new class in **com.morissoft.util** package and name it **DbUtil.java**. This class handles the database connection to our oracle server.
+  ![](https://github.com/MorisSoft/SimpleJspServletOracle/blob/master/images/class-1.JPG)
+  ![](https://github.com/MorisSoft/SimpleJspServletOracle/blob/master/images/class-2.JPG)
 7. Create a new class in **com.morissoft.model** package and name it **User.java**. Each of the variables in this class represents the field in **users** table in database.
 8. Create a new class in **com.morissoft.dao** package and name it **UserDao.java**. This class contains the logic for database operation.
 9. Create a new class in **com.morissoft.controller** package and name it **UserController.java**. This class contains the servlet.
