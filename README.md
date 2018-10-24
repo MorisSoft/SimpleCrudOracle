@@ -10,3 +10,6 @@ Materi Training Java
    ![](https://github.com/MorisSoft/SimpleJspServletOracle/blob/master/images/package-1.JPG)
    ![](https://github.com/MorisSoft/SimpleJspServletOracle/blob/master/images/package-2.JPG)
    - com.morissoft.util => contains the class for initiating database connection
+   - com.morissoft.model => contains the POJO (Plain Old Java Object). Each class in this package represents the database table. 
+   - com.morissoft.dao => contains the logic for database operation
+   - com.morissoft.controller => contains the servlets
