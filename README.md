@@ -57,6 +57,7 @@ Java Simple CRUD Application
 14. Finally project structure should be like this
 
 ![](https://github.com/MorisSoft/SimpleJspServletOracle/blob/master/images/project.JPG)
+
 15. Right click on the project name and run it using **Run As–>Run on server option**
 
   ![](https://github.com/MorisSoft/SimpleJspServletOracle/blob/master/images/result-1.JPG)
