@@ -13,3 +13,4 @@ Materi Training Java
    - **com.morissoft.model** => contains the POJO (Plain Old Java Object). Each class in this package represents the database table. 
    - **com.morissoft.dao** => contains the logic for database operation
    - **com.morissoft.controller** => contains the servlets
+ ######5. Create a new class in **com.morissoft.util** package and name it **DbUtil.java**. This class handles the database connection to our oracle server.
